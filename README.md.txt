@@ -1,3 +1,4 @@
  #repGit
 
--Learning GitHub, mudei de novo 
+-Learning GitHub
+1. eu sei como eviar aquivos modificados para o github
