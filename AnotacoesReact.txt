@@ -1,0 +1,5 @@
+* Criar um projeto com React básico com o typescript:
+
+	- yarn create react-app nome --template=typescript 
+	- Abre o projeto no VScode
+	- Abre o terminal e digita: yarn start
