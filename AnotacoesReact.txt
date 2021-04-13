@@ -3,3 +3,11 @@
 	- yarn create react-app nome --template=typescript 
 	- Abre o projeto no VScode
 	- Abre o terminal e digita: yarn start
+
+* Criar um projeto com Next.js
+
+	-yarn create next-app nome
+	- Abre o projeto no VScode
+// Instala as dependencias:
+	- Abre o terminal e digita: yarn add typescript @types/react @types/react-dom @types/node -D 
+	- Abre o terminal e digita: yarn dev
